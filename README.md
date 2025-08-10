@@ -52,6 +52,46 @@ I regularly write about AI, cloud engineering, and automation on:
 ## 👤 About Me
 
 I'm an engineer who thrives at the intersection of AI and cloud technologies. I love solving real-world problems, learning cutting-edge technologies, and sharing knowledge with the developer community. Based in **Coimbatore, Tamil Nadu, India**.
+## 🌟 Featured Projects
+
+### 🤖 **AI & Machine Learning Projects**
+- **[AI Project Name](link-to-repo)**: Brief description of your AI/GenAI project
+  - Technologies: Python, TensorFlow/PyTorch, etc.
+  - Key Features: What makes it special
+  
+### ☁️ **Cloud & Infrastructure Projects**
+- **[Cloud Infrastructure Project](link-to-repo)**: Description of your AWS/GCP implementation
+  - Technologies: AWS/GCP, Terraform, Docker
+  - Architecture: Brief overview of the solution
+
+### 🔄 **Automation & DevOps Projects**
+- **[Article Automation System](link-to-repo)**: Automated content synchronization between GitHub README and multiple blogging platforms
+  - **Platforms**: Dev.to, Hashnode, Google Blogger
+  - **Technologies**: Python, GitHub Actions, REST APIs
+  - **Features**: Multi-platform publishing, tag extraction, automated workflows
+  
+- **[Blog Automation Workflow](link-to-repo)**: Custom GitHub Actions for streamlined content publishing
+  - **Technologies**: GitHub Actions, YAML, API Integration
+  - **Features**: Automated README to blog post conversion, cross-platform publishing
+
+### 📱 **Web Development Projects**
+- **[Project Name](link-to-repo)**: Description of your web application
+  - Technologies: JavaScript, React/Vue/Angular, etc.
+  - Features: Key functionalities
+
+### 📚 **Learning & Tutorial Projects**
+- **[Tutorial/Demo Project](link-to-repo)**: Educational content or proof-of-concept
+  - Technologies: Various
+  - Purpose: Learning objective or demonstration
+
+---
+
+### 🚧 **Currently Working On**
+- **AI-Powered Cloud Solutions**: Integrating GenAI with cloud-native architectures
+- **Advanced Automation Workflows**: Expanding blog automation to more platforms
+- **Open Source Contributions**: Contributing to AI and cloud-related projects
+
+_⭐ Don't forget to star the repositories you find interesting!_
 
 **Philosophy:** *"Always building, always learning, always sharing knowledge with the community."*
 
